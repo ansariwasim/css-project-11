@@ -669,13 +669,21 @@ nav ul li a {
 }
  
 
+span{
+    /* border:2px solid red; */
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .btn-click{
     border: 2px solid rgb(18, 19, 19);
     color: rgb(20, 24, 23);
     width: 120px;
      margin-top:10px;
      margin-right: 0px;
-     margin-left: 175px;
+     /* margin-left: 175px; */
+     /* text-align: center; */
 }
 
 /* FIRST */
@@ -975,15 +983,15 @@ footer{
 
 .f-1 img{
 height:25px;
-margin-left: 0px;
+margin-left:2px;
 }
 
 .f-1 p{
     font-family: 'Montserrat', sans-serif;
-    font-size:9px;
+    font-size:8px;
     margin-top:0px;
     line-height: 10px;
-    margin-left:0px;
+    margin-left:2px;
 }
 
 .f-2{
@@ -1042,11 +1050,11 @@ line-height: 35px;
 
 .f-5 h1{
 font-family: 'Montserrat', sans-serif;
-font-size: 14px;
+font-size:13px;
 }
 
 .f-5 img{
-height:20px;
+height:18px;
 } 
 
 }
