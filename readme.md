@@ -6,6 +6,7 @@
 - Pseudo Selectors
 - CSS Positioning
 - Flex Box
+- media Query
 
 ## Time taken to Complete.
 - The Project took almost 1 day to complete.
